@@ -7,7 +7,7 @@
 		<Nullable>enable</Nullable>
 
 		<PackageId>PDFDoc</PackageId>
-		<Version>0.0.1</Version>
+		<Version>0.0.3</Version>
 		<Authors>Tony Guerra</Authors>
 		<Company>ThermalByte</Company>
 		<Description>A library to generate PDFs from XML using iText7</Description>
